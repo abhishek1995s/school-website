@@ -1,0 +1,15 @@
+#content div.example h3 
+{ 
+  color: #0000ff; 
+  font-size: xx-large; 
+  font-family: sans-serif; 
+} 
+
+#content div.example strong 
+{ 
+  font-size: large; 
+  color: #999999; 
+  font-family: monospace; 
+  text-decoration: underline; 
+  font-weight: bold; 
+} 
